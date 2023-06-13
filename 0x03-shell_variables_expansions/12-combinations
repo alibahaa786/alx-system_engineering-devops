@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "\b"{a..n}{a..z}"\n" "\b"o{a..n}"\n" "\b"o{p..z}"\n" "\b"{p..z}{a..z}"\n" "\b\b"
+echo -e "\b"{a..z}{a..z}"\n" | grep -v "oo"
