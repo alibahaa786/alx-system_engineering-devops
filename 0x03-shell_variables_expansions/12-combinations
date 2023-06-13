@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e "\b"{a..o}{a..n}"\n" "\b"o{p..z}"\n" "\b"{p..z}{a..z}"\n"
